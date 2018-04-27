@@ -7,3 +7,4 @@ parking, control and automate different basic functions, activities, appliances 
 in home through web application, automatic on off of street lights in particular area of city
 using Internet of Things(IoT). For this we have used different sensors, Raspberry Pi,
 Arduino etc. Also we have made physical model of proposed system.
+
